@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#055BEC</color>
+    <color name="secondaryColor">#FFAFACAC</color>
+    <color name="accentColor">#FF000000</color>
+    <color name="onb_button">#1976D2</color>
+    <color name="onb_txtcolor">#333333</color>
+    <color name="loginButton_color">#055BEC</color>
+    <color name="HomePgButton_color">#5424FD</color>
+
+
+</resources>
